@@ -8,7 +8,7 @@ This project is a web-based tool that visualises various sorting algorithms in a
 -----
 ## Live Demo
 
-You can view the live project here: **[Sorting Algorithm Visualizer](https://iamsidh03.github.io/sorting-algorithms-visualizer/)**
+You can view the live project here: **[Sorting Algorithm Visualizer](http://127.0.0.1:5500/index.html)**
 
 -----
 
@@ -44,7 +44,7 @@ You can view the live project here: **[Sorting Algorithm Visualizer](https://iam
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/iamsidh03/sorting-algorithms-visualizer.git
+    git clone https://github.com/ankit18193/Sorting-Algorithms-Visualizer-.git
     ```
 
 2.  **Navigate to the project directory:**
